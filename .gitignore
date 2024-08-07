@@ -1,0 +1,8 @@
+# Ignore all .env files, in root
+.env
+
+# Ignore all .c files, in all directories
+**/*.c
+
+# Ignore the node_modules directory
+/node_modules
